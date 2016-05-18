@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getelementbyId"
+			],
+			[
+				"tr",
+				"transition"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/istudent/Desktop/dream team/CSS/style.css",
+		"/Users/istudent/Desktop/dream team/index.html",
+		"/Users/istudent/Desktop/JS/index.html",
+		"/Users/istudent/Desktop/teampage/CSS/style.css",
+		"/Users/istudent/Desktop/teampage/index.html",
+		"/Users/istudent/Documents/IrishHaven/CSS/homestyle.css",
+		"/Users/istudent/Documents/IrishHaven/index.html",
+		"/Users/istudent/Desktop/Curly Dos!/landingpage.css",
+		"/Users/istudent/Desktop/Curly Dos!/index.html",
+		"/Users/istudent/Documents/IrishHaven/CSS/menu.css",
+		"/Users/istudent/Documents/IrishHaven/menu.html",
+		"/Users/istudent/Documents/IrishHaven/CSS/contactstyle.css",
+		"/Users/istudent/Documents/IrishHaven/contact.html",
+		"/Users/istudent/Desktop/IrishHaven/CSS/contactstyle.css",
+		"/Users/istudent/Desktop/IrishHaven/contact.html",
+		"/Users/istudent/Desktop/IrishHaven/CSS/homestyle.css",
+		"/Users/istudent/Desktop/IrishHaven/index.html",
+		"/Users/istudent/Desktop/IrishHaven/conact.html",
+		"/Users/istudent/Desktop/IrishHaven/menu.html",
+		"/Users/istudent/Desktop/IrishHaven/CSS/homestylesheet.css",
+		"/Users/istudent/Desktop/Personal-Website/CSS/homestyle.css",
+		"/Users/istudent/Desktop/Personal-Website/index.html",
+		"/Users/istudent/Desktop/Personal-Website/home.html",
+		"/Users/istudent/Desktop/IrishHaven/home.html",
+		"/Users/istudent/Documents/Class/index.html",
+		"/Users/istudent/Documents/Class/stylesheet.css",
+		"/Users/istudent/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/istudent/Desktop/class project/images/omghoi.png",
+		"/Users/istudent/Desktop/mintgitbackground.png",
+		"/Users/istudent/Desktop/class project 3/CSS/style.css",
+		"/Users/istudent/Desktop/class project 3/index.html",
+		"/Users/istudent/Desktop/class project 3/CSS/class3style.css",
+		"/Users/istudent/Desktop/mobile project/Index.html",
+		"/Users/istudent/Desktop/class project/CSS/style.css",
+		"/Users/istudent/Desktop/class project/index.html",
+		"/Users/istudent/Desktop/mobile project/CSS/style.css",
+		"/Users/istudent/Desktop/class project 3/CSS/style3.css",
+		"/Users/istudent/Desktop/class project 3/index.hmtl",
+		"/Users/istudent/Desktop/mobile project/Images/temmiefb.jpeg",
+		"/Users/istudent/Desktop/Project 1/CSS/stylesheet.css",
+		"/Users/istudent/Desktop/Project 1/index.html",
+		"/Users/istudent/Desktop/Project 1/default.html",
+		"/Users/istudent/Desktop/index.html",
+		"/Users/istudent/Desktop/Project 1/example.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
