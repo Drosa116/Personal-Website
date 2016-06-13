@@ -1,0 +1,60 @@
+body
+{
+  width: 50%; 
+  height:100%;
+  margin:0em 5%;
+  background-position: center bottom;
+  animation: animatedBackground 30s linear infinite;
+  -webkit-animation: animatedBackground 30s linear infinite;
+}
+@keyframes animatedBackground 
+{
+  from { background-position: 0 100%; }
+  to { background-position: 100% 100%; }
+}
+@-webkit-keyframes  animatedBackground 
+{
+  from { background-position: 0 100%; }
+  to { background-position: 100% 100%; }
+}
+
+#content2{
+  position:fixed;
+  margin: auto;
+  height:100%;
+  width:90%;
+  background-color:rgba(1, 1, 1, 0.5);
+}
+
+.speaker2 {
+  position: fixed;
+  margin-top: 900px;
+  color:white;
+  font-family: 'Press Start 2P', seriff;
+  text-align: center;
+  font-size: 8px;
+
+}
+
+p {
+  color:white;
+  font-family: 'Press Start 2P', seriff;
+  text-align: center;
+  font-size: 10px;
+  position: absolute;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  font-family: 'Press Start 2P', seriff;
+  font-size: 10px
+}
+
+a:hover {
+  text-decoration: none;
+  color: #FB7DFF;
+  text-decoration: none;
+  text-align: center;
+}
